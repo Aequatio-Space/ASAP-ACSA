@@ -18,3 +18,4 @@ Final Project for course “Knowledge Engineering", Spring semester 2022, Beijin
 + `textCNN-std.py`: an attempt to reproduce TextCNN on RP task.
 + `textCNN-label-smoothing.py`: the best performance of rating prediction task is completed with this script.
 + `meituan-asap-aspect-renewed.ipynb`: trained with Kaggle GPU, the best performance of ACSA task is completed with this script.
++ `textCNN-Reg.py`: The script used to study classification and regression tasks.
