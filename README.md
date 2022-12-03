@@ -1,6 +1,7 @@
 # Multi-task Sentimental Analysis based on Convolutional Neural Networks
-## codebase details
+## Basic Information
 Final Project for course “Knowledge Engineering", Spring semester 2022, Beijing Institute of Technology.
+## codebase details
 + `preprocess.py`: contains the `Vocab` class for recording word-frequency table, also includes functions for reading files, parsing strings, etc.
 + `model.py`: contains all model used in experiments. ACSA for aspect catogory sentimental analysis, and RP for rating prediction.
   + GCAEReg(ACSA): A GCAE with Dual Conv layer, and output a regressed value.
