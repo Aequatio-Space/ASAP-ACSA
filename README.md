@@ -14,5 +14,6 @@ Final Project for course “Knowledge Engineering", Spring semester 2022, Beijin
 + `plot.py`: the main function for calling `collector` class for figures.
 + `eval_formal.py`: call evaluation functions for model performance.
 + `ACSA+RL+Join+renewed.py`: the main script for running transfer learning on GCAE+.
++ `textCNN-std.py`: an attempt to reproduce TextCNN on RP task.
 + `textCNN-label-smoothing.py`: the best performance of rating prediction task is completed with this script.
 + `meituan-asap-aspect-renewed.ipynb`: trained with Kaggle GPU, the best performance of ACSA task is completed with this script.
